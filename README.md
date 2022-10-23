@@ -1,6 +1,6 @@
 # Forgotten Warrior Remake
 
-## Platform game - nostalgia from old phones
+## Platform game - nostalgia from old phones. C++, Microsoft VS, SFML
 ![Image alt](https://github.com/vomsina/Forgotten-Warrior-Remake/blob/master/1.jpg)
 
 ## The main task of the player is to get to the top, kill the main enemy and save the princesses.
